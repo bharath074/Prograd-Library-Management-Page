@@ -1,2 +1,4 @@
-prograd
-library management system
+PROGRAD
+ library management system
+ 
+ Bharadwaj Jangili
